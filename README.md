@@ -1,6 +1,7 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-
+<--
 **Brian-Santeliz/brian-santeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
