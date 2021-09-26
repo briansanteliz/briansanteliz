@@ -12,6 +12,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuevos tipos de datos en Javascript Records & Tuples](https://dev.to/briansanteliz/nuevos-tipos-de-datos-en-javascript-records-tuples-2kie)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
