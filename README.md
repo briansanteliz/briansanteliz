@@ -37,10 +37,9 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-santeliz&show_icons=true&locale=en&layout=compact" alt="brian-santeliz" /></p>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-santeliz" alt="brian-santeliz" /></p>
 <p><img style="margin-top:2em;" align="center" src="https://github-readme-stats.vercel.app/api?username=brian-santeliz&show_icons=true&locale=en&theme=tokyonight" alt="brian-santeliz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-santeliz" alt="brian-santeliz" /></p>
 </details>
 
 <!--- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
