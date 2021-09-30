@@ -34,7 +34,6 @@
 <br/>
 
 <h3 align="left">📊 &nbsp;I've been coding in:</h3>
-<br/>
 
 <p><img align="left" style="margin-bottom:1em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-santeliz&show_icons=true&locale=en&layout=compact" alt="brian-santeliz" /></p>
 <br/>
