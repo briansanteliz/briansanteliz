@@ -1,9 +1,9 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Brian Santeliz</h1>
 <h3 align="center">FullStack Developer from Venezuela</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-santeliz&label=Profile%20views&color=0e75b6&style=flat" alt="brian-santeliz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=briansanteliz&label=Profile%20views&color=0e75b6&style=flat" alt="briansanteliz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-santeliz" alt="brian-santeliz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=briansanteliz" alt="briansanteliz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/brian_santeliz" target="blank"><img src="https://img.shields.io/twitter/follow/brian_santeliz?logo=twitter&style=for-the-badge" alt="brian_santeliz" /></a> </p>
 
@@ -35,11 +35,11 @@
 
 <h3 align="left">📊 &nbsp;I've been coding in:</h3>
 
-<p><img align="left" style="margin-bottom:1em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-santeliz&show_icons=true&locale=en&layout=compact" alt="brian-santeliz" /></p>
+<p><img align="left" style="margin-bottom:1em" src="https://github-readme-stats.vercel.app/api/top-langs?username=briansanteliz&show_icons=true&locale=en&layout=compact" alt="brian-santeliz" /></p>
 <br/>
 <!-- 
 <p><img  style="margin-top:2em;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-santeliz" alt="brian-santeliz" /></p> -->
-<p><img style="margin-top:2em;" align="center" src="https://github-readme-stats.vercel.app/api?username=brian-santeliz&show_icons=true&locale=en&theme=tokyonight" alt="brian-santeliz" /></p>
+<p><img style="margin-top:2em;" align="center" src="https://github-readme-stats.vercel.app/api?username=briansanteliz&show_icons=true&locale=en&theme=tokyonight" alt="brian-santeliz" /></p>
 
 </details>
 
