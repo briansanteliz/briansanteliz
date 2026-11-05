@@ -39,9 +39,9 @@ designed, built and run end to end.
   <img src="https://skillicons.dev/icons?i=aws,dynamodb,postgres,redis,mongodb,elasticsearch,docker,githubactions,bitbucket,vercel,cloudflare,linux" alt="Cloud and DevOps" />
 </p>
 
-**AI, frontend & testing**
+**Frontend & testing**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,vitest,jest,firebase" alt="AI, frontend and testing" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,vitest,jest,firebase" alt="Frontend and testing" />
 </p>
 
 - **AWS:** Lambda · API Gateway · DynamoDB · RDS · S3 · EventBridge · SQS · SNS · SES · Cognito · IoT Core · Timestream · QuickSight · CloudWatch · SSM · CDK · Serverless Framework
