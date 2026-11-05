@@ -27,11 +27,25 @@ designed, built and run end to end.
 - Node.js / TypeScript APIs with clean architecture, testing and observability baked in
 - Shipping LLM features to production: classification, extraction, eval suites and cost control
 
+### 🤖 AI in production
+
+- **LLM-powered NLU:** GPT-4o / GPT-4o-mini intent classification and structured extraction with
+  deterministic guards, a 150-case eval suite run before every prompt or model change, prompt
+  caching and per-call cost tracking (Zippi).
+- **Multimodal:** Whisper voice-note transcription and receipt / bank-statement OCR with vision models.
+- **Conversational agents:** multi-turn financial advisor with reasoning models, WhatsApp and
+  iMessage/SMS assistants, Amazon Lex flows for fintech support.
+- **Agents & tooling:** Model Context Protocol (MCP) servers, Vercel AI SDK + AI Gateway, Stagehand
+  browser agents, AgentMail email agents, Claude Code skills / subagents / hooks in my daily workflow.
+- **Fintech AI:** LLM data extraction for AML/KYC and onboarding pipelines on AWS.
+- **Generative media:** automated video pipelines with Whisper transcripts, TTS voice and
+  code-rendered motion graphics (Remotion, HyperFrames).
+
 ### 🛠️ Stack
 
 **Backend & languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,express,graphql,prisma" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,express,graphql,prisma,bash" alt="Backend" />
 </p>
 
 **Cloud, data & DevOps**
@@ -41,15 +55,16 @@ designed, built and run end to end.
 
 **Frontend & testing**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,vitest,jest,firebase" alt="Frontend and testing" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,vitest,jest,firebase,vscode" alt="Frontend and testing" />
 </p>
 
 - **AWS:** Lambda · API Gateway · DynamoDB · RDS · S3 · EventBridge · SQS · SNS · SES · Cognito · IoT Core · Timestream · QuickSight · CloudWatch · SSM · CDK · Serverless Framework
 - **Backend:** Fastify · Express · Hono · tRPC · GraphQL / Apollo · Zod · Turborepo monorepos
-- **AI / LLMs:** OpenAI · Gemini · Vercel AI SDK · Model Context Protocol (MCP) · LLM evals · Claude Code
+- **AI / LLMs:** OpenAI (GPT-4o, GPT-4o-mini, GPT-5, Whisper, TTS) · Gemini · Claude (Anthropic SDK) · Vercel AI SDK / AI Gateway · MCP · Stagehand · AgentMail · Amazon Lex · LLM evals · prompt caching
 - **Data & jobs:** PostgreSQL (Neon) · Drizzle · Prisma · Redis · BullMQ · Inngest · Neo4j
 - **Mobile & testing:** React Native / Expo · Playwright · Vitest · Jest
-- **Integrations:** Twilio WhatsApp · Stripe · Polar · WebAuthn / passkeys · PostHog · Resend
+- **Integrations:** Twilio WhatsApp · iMessage/SMS (Linq) · Stripe · Polar · Duffel (flights) · Coinbase CDP / x402 · WebAuthn / passkeys · PostHog · Mixpanel · Resend
+- **Media:** Remotion · HyperFrames · FFmpeg
 
 ### 📈 Highlights
 
