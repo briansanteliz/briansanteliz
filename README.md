@@ -29,9 +29,25 @@ designed, built and run end to end.
 
 ### 🛠️ Stack
 
+**Backend & languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,aws,postgres,mongodb,redis,dynamodb,docker,graphql,nextjs,react,vue,tailwind,git,linux&perline=9" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,fastify,express,hono,graphql,prisma" alt="Backend" />
 </p>
+
+**Cloud, data & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb,postgres,redis,mongodb,neo4j,elasticsearch,docker,githubactions,bitbucket,vercel,cloudflare,turborepo,linux" alt="Cloud and DevOps" />
+</p>
+
+**AI, frontend & testing**
+<p>
+  <img src="https://skillicons.dev/icons?i=openai,nextjs,react,expo,tailwind,vue,vitest,jest,playwright,stripe,firebase" alt="AI, frontend and testing" />
+</p>
+
+- **AWS:** Lambda · API Gateway · DynamoDB · RDS · S3 · EventBridge · SQS · SNS · SES · Cognito · IoT Core · Timestream · QuickSight · CloudWatch · SSM · CDK · Serverless Framework
+- **AI / LLMs:** OpenAI · Gemini · Vercel AI SDK · Model Context Protocol (MCP) · LLM evals · Claude Code
+- **Data & jobs:** PostgreSQL (Neon) · Drizzle · Prisma · Redis · BullMQ · Inngest
+- **APIs & integrations:** tRPC · Zod · Twilio WhatsApp · Stripe · Polar · WebAuthn / passkeys · PostHog · Resend
 
 ### 📈 Highlights
 
