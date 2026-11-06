@@ -43,26 +43,49 @@ designed, built and run end to end.
 
 ### 🛠️ Stack
 
-**Backend & languages**
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,express,graphql,prisma,bash" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,go,php,java,swift,bash,html,css" alt="Languages" />
 </p>
 
-**Cloud, data & DevOps**
+**AI & LLMs**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,dynamodb,postgres,redis,mongodb,elasticsearch,docker,githubactions,bitbucket,vercel,cloudflare,linux" alt="Cloud and DevOps" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/dark/openai.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/light/openai.png" height="44" alt="OpenAI" title="OpenAI" /></picture>
+&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/dark/claude-color.png" height="44" alt="Claude (Anthropic)" title="Claude (Anthropic)" />
+&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/dark/gemini-color.png" height="44" alt="Google Gemini" title="Google Gemini" />
+&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/dark/mcp.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/light/mcp.png" height="44" alt="Model Context Protocol" title="Model Context Protocol" /></picture>
+&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/dark/vercel.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/light/vercel.png" height="44" alt="Vercel AI SDK" title="Vercel AI SDK" /></picture>
 </p>
 
-**Frontend & testing**
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,vitest,jest,firebase,vscode" alt="Frontend and testing" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,redux,tailwind,sass,bootstrap,vite,webpack,babel,gatsby,electron" alt="Frontend" />
 </p>
 
+**Backend, cloud & data**
+<p>
+  <img src="https://skillicons.dev/icons?i=express,graphql,prisma,aws,dynamodb,postgres,redis,mongodb,elasticsearch" alt="Backend and data" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,bitbucket,vercel,cloudflare,linux,git,postman,vscode" alt="DevOps and tools" />
+</p>
+
+**Testing**
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest,jest,cypress" alt="Testing" />
+</p>
+
+- **Languages:** TypeScript · JavaScript · Python · Go · PHP · Java · Swift · Bash · SQL
+- **AI / LLMs:** OpenAI (GPT-4o, GPT-4o-mini, GPT-5, Whisper, TTS) · Claude (Anthropic SDK) · Gemini · Vercel AI SDK / AI Gateway · Model Context Protocol (MCP) · Stagehand · AgentMail · Amazon Lex · LLM evals · prompt caching
+- **Frontend:** React · Next.js · Vue / Nuxt · Svelte · Redux · Tailwind · Sass · Bootstrap / Vuetify · Vite · Webpack · Gatsby · Electron · Ionic · React Native / Expo
 - **AWS:** Lambda · API Gateway · DynamoDB · RDS · S3 · EventBridge · SQS · SNS · SES · Cognito · IoT Core · Timestream · QuickSight · CloudWatch · SSM · CDK · Serverless Framework
 - **Backend:** Fastify · Express · Hono · tRPC · GraphQL / Apollo · Zod · Turborepo monorepos
-- **AI / LLMs:** OpenAI (GPT-4o, GPT-4o-mini, GPT-5, Whisper, TTS) · Gemini · Claude (Anthropic SDK) · Vercel AI SDK / AI Gateway · MCP · Stagehand · AgentMail · Amazon Lex · LLM evals · prompt caching
-- **Data & jobs:** PostgreSQL (Neon) · Drizzle · Prisma · Redis · BullMQ · Inngest · Neo4j
-- **Mobile & testing:** React Native / Expo · Playwright · Vitest · Jest
+- **Data & jobs:** PostgreSQL (Neon) · MySQL · Drizzle · Prisma · Redis · BullMQ · Inngest · Neo4j · MongoDB
+- **Testing:** Vitest · Jest · Playwright · Cypress
 - **Integrations:** Twilio WhatsApp · iMessage/SMS (Linq) · Stripe · Polar · Duffel (flights) · Coinbase CDP / x402 · WebAuthn / passkeys · PostHog · Mixpanel · Resend
 - **Media:** Remotion · HyperFrames · FFmpeg
 
